@@ -1,0 +1,6 @@
+@soren_curriculo_HostAddress = http://localhost:5178
+
+GET {{soren_curriculo_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
